@@ -1,0 +1,17 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting subword-nmt
+  Downloading subword_nmt-0.3.8-py3-none-any.whl (27 kB)
+Collecting mock
+  Downloading mock-5.2.0-py3-none-any.whl (31 kB)
+Collecting tqdm
+  Downloading tqdm-4.67.1-py3-none-any.whl (78 kB)
+Installing collected packages: tqdm, mock, subword-nmt
+  WARNING: The script tqdm is installed in '/Users/l0ver1ck/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  NOTE: The current PATH contains path(s) starting with `~`, which may not be expanded by all applications.
+  WARNING: The script subword-nmt is installed in '/Users/l0ver1ck/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  NOTE: The current PATH contains path(s) starting with `~`, which may not be expanded by all applications.
+Successfully installed mock-5.2.0 subword-nmt-0.3.8 tqdm-4.67.1
+WARNING: You are using pip version 21.2.4; however, version 25.2 is available.
+You should consider upgrading via the '/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip' command.
